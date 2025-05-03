@@ -1,4 +1,4 @@
-[![MasterHead](https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif)](https://www.newyorker.com/)
+[![MasterHead](https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif)](https://www.pinterest.com/)
 <h1 align="center">Hi 👋, I'm Aayush Mishra</h1>
 <h3 align="center">An Aspiring Robotics/Embedded Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
