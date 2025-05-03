@@ -1,10 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/wPsC36O34ZmNGYffak/giphy.gif)](https://giphy.com/gifs/MultiversX-wPsC36O34ZmNGYffak)
+[![MasterHead](https://media.newyorker.com/photos/67411352a7d224b818eb08a5/master/w_2560%2Cc_limit/r45251web_rd.gif)](https://www.newyorker.com/)
 <h1 align="center">Hi 👋, I'm Aayush Mishra</h1>
 <h3 align="center">An Aspiring Robotics/Embedded Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics" alt="aayushmishramechatronics" /></a> </p>
 
 - 🔭 I’m Currently Working On **ESP32 Drone**
 
