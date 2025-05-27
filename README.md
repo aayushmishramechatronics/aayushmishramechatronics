@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
 
-- 🔭 I’m Currently Working On **ESP32 Drone**
+- 🔭 I’m Currently Working On : **ESP32 Drone**
 
-- 🌱 I’m Currently Learning **Embedded C**
+- 🌱 I’m Currently Learning : **Embedded C**
 
-- 💬 Ask Me About **CAD/PCB Design, Embedded Software, Front-End Development**
+- 💬 Ask Me About : **CAD/PCB Design, Embedded Software, Front-End Development**
 
-- 📫 How to Reach Me **aayushmishra1105@gmail.com**
+- 📫 How to Reach Me - **aayushmishra1105@gmail.com**
 
 - 📄 Know About My Experiences - [My Resume](https://drive.google.com/file/d/1n_EYljW6ZynV3bJ-u2VGwtRkX5_dIdtz/view?usp=sharing)
 
