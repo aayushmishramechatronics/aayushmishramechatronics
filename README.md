@@ -27,3 +27,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&locale=en" alt="aayushmishramechatronics" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishramechatronics&" alt="aayushmishramechatronics" /></p>
+
+---
+
+###  GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics&theme=onestar&margin-w=15&no-frame=true" />
+</p>
+
+---
