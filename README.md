@@ -24,16 +24,6 @@
 
 ---
 
-###  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics&theme=onestar&margin-w=15&no-frame=true" />
-</p>
-
----
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -46,5 +36,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishramechatronics&layout=compact&theme=github_dark" width="50%"/>
 
 </div>
+
+---
+
+###  GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics&theme=onestar&margin-w=15&no-frame=true" />
+</p>
 
 ---
