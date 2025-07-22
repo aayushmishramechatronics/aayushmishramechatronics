@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aayush Mishra</h1>
-<h3 align="center">An Aspiring Robotics/Embedded Software Engineer from India</h3>
+<h1 align="center">Hi, I'm Aayush Mishra</h1>
+<h3 align="center">An Aspiring Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
 
 - 🔭 I’m Currently Working On : **ESP32 Drone**
 
-- 🌱 I’m Currently Learning : **Embedded C**
+- 🌱 I’m Currently Learning : **Embedded C & ML**
 
 - 💬 Ask Me About : **CAD/PCB Design, Embedded Software, Front-End Development**
 
