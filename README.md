@@ -9,7 +9,8 @@
 - 💬 Ask Me About : **CAD/PCB Design, Embedded Software, Front-End Development**
 
 - 📫 How to Reach Me - **aayushmishra1105@gmail.com**
-
+  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishra2025)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishramechatronics)](https://codeforces.com/profile/aayushmishra2025)
 
 <h3 align="left">Connect with me:</h3>
