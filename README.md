@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Aayush Mishra</h1>
-<h3 align="center">An Engineering Student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishra2025)
