@@ -10,7 +10,7 @@
 
 - 📫 How to Reach Me - **aayushmishra1105@gmail.com**
 
-- 📄 Know About My Experiences - [My Resume](https://drive.google.com/file/d/1n_EYljW6ZynV3bJ-u2VGwtRkX5_dIdtz/view?usp=sharing)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishramechatronics)](https://codeforces.com/profile/aayushmishra2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
