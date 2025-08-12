@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishramechatronics&theme=github-dark-blue" width="50%" />
@@ -27,7 +27,7 @@
 
 ###  GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics&theme=onestar&margin-w=15&no-frame=true" />
 </p>
 
