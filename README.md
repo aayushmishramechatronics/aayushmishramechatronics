@@ -1,18 +1,10 @@
 <h1 align="center">Hi, I'm Aayush Mishra</h1>
-<h3 align="center">An Aspiring Engineer from India</h3>
+<h3 align="center">An Engineering Student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmishramechatronics&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmishramechatronics" /> </p>
 
-- 🔭 I’m Currently Working On : **ESP32 Drone**
-
-- 🌱 I’m Currently Learning : **Embedded C & ML**
-
-- 💬 Ask Me About : **CAD/PCB Design, Embedded Software, Front-End Development**
-
-- 📫 How to Reach Me - **aayushmishra1105@gmail.com**
-  
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishra2025)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://dev.to/aayushmishramechatronics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayushmishramechatronics" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aayush-anil-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush anil mishra" height="30" width="40" /></a>
