@@ -5,7 +5,7 @@
  
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishra2025)
 <img src="https://leetcard.jacoblin.cool/aayushmishra2025" height="500" width="65%" />
-
+![Codolio Stats](https://codolio.com/profile/mechatronics2027/card)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
