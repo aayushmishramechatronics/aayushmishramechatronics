@@ -4,7 +4,7 @@
 <div align="center">
  
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayushmishra2025)
-<img src="https://leetcard.jacoblin.cool/aayushmishra2025" height="150" width="60%" />
+<img src="https://leetcard.jacoblin.cool/aayushmishra2025" height="500" width="65%" />
 
 </p>
 
