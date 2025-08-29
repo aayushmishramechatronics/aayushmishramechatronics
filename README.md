@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -24,12 +24,20 @@
 
 </div>
 
----
-
-###  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushmishramechatronics&theme=onestar&margin-w=15&no-frame=true" />
-</p>
-
----
+<thead>
+            <tr>
+                <th colspan="2">Wakatime</th>
+            </tr>
+        </thead>
+        <tr>
+            <td colspan="2" align="center">
+                <picture>
+                    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=aayushmishramechatronics&theme=radical&layout=compact&border_color=000000&range=all_time" media="(prefers-color-scheme: dark)" />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=aayushmishramechatronics&theme=graywhite&layout=compact&border_color=EDEDED&text_color=515151&icon_color=6D6D6D"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushmishramechatronics&theme=radical&layout=compact&border_color=000000&range=all_time" />
+                </picture>
+            </td>
+        </tr>
