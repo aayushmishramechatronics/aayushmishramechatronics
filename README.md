@@ -11,8 +11,6 @@
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayushmishramechatronics&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
